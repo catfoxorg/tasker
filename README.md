@@ -1,2 +1,2 @@
-# tasker
-CatFox Tasker. ToDo-App to organize Tasks, Schedules, and more for Windows and Linux.
+# CatFox Tasker
+Official releases are available under the [Releases section](https://github.com/catfoxorg/tasker/releases/).
