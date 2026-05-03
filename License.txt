@@ -1,0 +1,76 @@
+------------------------------------
+CatFox Tasker License
+
+Copyright (c) 2026 Florian Burkhardt
+All rights reserved.
+------------------------------------
+
+1. Definitions
+For the purposes of this License:
+
+      "Software" 	means the CatFox Tasker software, including source code, object code, documentation, 
+		 	and any associated files.
+       "Author" 	means the original copyright holder.
+       "Modify"     	means to alter, adapt, translate, enhance, or create derivative works of the Software.
+     "Distribute" 	means to share, publish, provide, sublicense, transfer, or otherwise make the Software available to third parties, 
+	     	 	whether free of charge or for compensation.
+   "Commercial Use" 	means any use primarily intended for or directed toward commercial advantage or monetary compensation.
+
+Commercial Use includes, but is not limited to:
+
+- Sale of the Software
+- Charging license fees
+- Including the Software in paid products or services
+- Bundling with paid hardware or software
+- Monetized distribution (ads, subscriptions, paywalls, in-app purchases)
+- Providing paid support where access to the Software is conditional upon payment
+
+"Non-Commercial Use" means use that is not primarily intended for commercial advantage or monetary compensation.
+
+------------------------------------
+
+2. License Grant
+The Author grants you a non-exclusive, non-transferable, revocable license to:
+
+- Install and use the Software for personal or internal commercial purposes.
+- Modify the Software for private use.
+
+Internal commercial use (including within a company, organization, or government entity) is permitted, 
+provided the Software itself is not sold, sublicensed, or redistributed in violation of this License.
+
+------------------------------------
+
+3. Distribution
+
+You may Distribute the Software, modified or unmodified, solely for Non-Commercial Use, provided that:
+
+- The Software is not misrepresented as your original work.
+- This License and all copyright notices remain intact.
+- Modified versions are clearly marked as modified.
+- The Author remains credited in all copies and derivative works.
+- No fee, compensation, donation requirement, subscription, advertisement revenue, or other monetary benefit is directly 
+  or indirectly required or generated as a condition of access to the Software.
+
+------------------------------------
+
+4. Commercial Restrictions
+
+Without explicit prior permission from the Author, you may not:
+
+- Sell the Software.
+- Sublicense the Software.
+- Redistribute the Software as part of a paid product or service.
+- Include the Software in products or services for which users must pay to access functionality provided by the Software.
+- Monetize access to the Software in any form.
+
+------------------------------------
+
+5. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE 
+OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
